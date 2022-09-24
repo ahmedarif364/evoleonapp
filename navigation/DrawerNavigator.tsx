@@ -46,7 +46,7 @@ function FileSystemNavigator() {
   return (
     <FileSystemStack.Navigator>
       <FileSystemStack.Screen
-        name="FileSystemScreen"
+        name="monthly cost saving"
         component={FileSystemScreen}
       />
     </FileSystemStack.Navigator>
